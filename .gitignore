@@ -3,3 +3,5 @@
 */mnist_data/*
 */.venv/*
 *.pyc
+*.pyd
+/.venv
