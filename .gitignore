@@ -6,3 +6,4 @@
 *.pyd
 /.venv
 notebooks/day_1/data/2018/1-Year/psam_p06.csv
+notebooks/day_2/data/2018/1-Year/psam_p06.csv
